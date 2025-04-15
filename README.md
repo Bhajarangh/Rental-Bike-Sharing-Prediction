@@ -60,11 +60,9 @@ Source: UCI Machine Learning Repository
 
   - Algorithms Used:
 
+     - Gradient Boosting
      - Linear Regression
-
-     - Random Forest Regressor
-
-    - Decision Tree Regressor
+    - Ridge Regression
 
   - Hyperparameter Tuning
 
